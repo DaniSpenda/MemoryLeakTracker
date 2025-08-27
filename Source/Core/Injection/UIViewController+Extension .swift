@@ -5,7 +5,7 @@
 //  Created by Rustam Nurgaliev on 04.04.2021.
 //
 
-import Foundation
+import UIKit
 
 extension UIViewController {
     static func currentViewController(_ viewController: UIViewController? = UIApplication.shared.keyWindow?.rootViewController) -> UIViewController? {
