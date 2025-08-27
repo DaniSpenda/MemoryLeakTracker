@@ -5,7 +5,7 @@
 //  Created by Rustam Nurgaliev on 03.04.2021.
 //
 
-import Foundation
+import UIKit
 
 final class ObjectsListViewController: UIViewController {
     
